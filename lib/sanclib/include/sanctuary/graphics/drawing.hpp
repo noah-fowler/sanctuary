@@ -1,0 +1,11 @@
+#pragma once
+#include <sanctuary/graphics/drawing/color.hpp>
+#include <sanctuary/graphics/drawing/vertex.hpp>
+#include <sanctuary/graphics/drawing/vertex_array.hpp>
+#include <sanctuary/graphics/drawing/image.hpp>
+#include <sanctuary/graphics/drawing/texture.hpp>
+#include <sanctuary/graphics/drawing/sprite.hpp>
+#include <sanctuary/graphics/drawing/shapes.hpp>
+#include <sanctuary/graphics/drawing/font.hpp>
+#include <sanctuary/graphics/drawing/text.hpp>
+#include <sanctuary/graphics/drawing/drawable.hpp>
